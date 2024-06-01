@@ -41,7 +41,7 @@ This project is an e-commerce website developed as part of a school assignment. 
 ### Accessing the Admin Panels
 
 - To access the Django admin dashboard, go to: `http://localhost:8000/admin/`
-- To access the website admin panel, go to: `http://localhost:3000/admin/`
+- To access the website admin panel, go to: `http://localhost:3000/`
 
 - If you want to create a superuser, use the following command:
     ```sh
